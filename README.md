@@ -105,9 +105,11 @@ JASIM/
 └── README.md
 ```
 
-## Sample Output Images
-![JASIM UI]([https://i.imgur.com/abcd123.png](https://postimg.cc/gnhbZyq4))
-![JASIM UI]([[https://i.imgur.com/abcd123.png](https://postimg.cc/gnhbZyq4)](https://postimg.cc/BjG9c8m3))
+## Sample Output Images  
+
+![JASIM UI](https://i.imgur.com/abcd123.png)  
+![Date and Time](https://postimg.cc/gnhbZyq4)  
+
 
 ## Future Enhancements
 
