@@ -2,7 +2,7 @@
 
 # JASIM - Just A Simple Intelligent Machine
 
-![JASIM Logo](https://img.shields.io/badge/JASIM-Desktop%20Assistant-25D366?style=for-the-badge)
+
 
 ## Overview
 
