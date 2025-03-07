@@ -1,5 +1,4 @@
 # JASIM-A-DESKTOP-VOICE-ASSISTANT
-# JASIM - Just A Simple Intelligent Machine 🎙️💻
 
 JASIM (Just A Simple Intelligent Machine) is an advanced **Desktop Voice Assistant** built using **Python and Tkinter**. It enables users to interact via **voice commands** and text input, performing tasks such as web searches, application control, messaging, and more.  
 
