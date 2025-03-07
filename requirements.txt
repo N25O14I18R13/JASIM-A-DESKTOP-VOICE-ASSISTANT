@@ -1,0 +1,15 @@
+pyttsx3
+speechrecognition
+wikipedia
+pywhatkit
+webbrowser
+pillow
+pyautogui
+sqlite3
+requests
+pyjokes
+keyboard
+pyaudio
+pynput
+smtplib
+email
