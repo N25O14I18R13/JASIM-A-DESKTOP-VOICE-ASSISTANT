@@ -107,9 +107,7 @@ JASIM/
 
 ## Sample Output Images  
 
-![JASIM UI](https://i.postimg.cc/MKP6gdck/image-1.png) 
-![Date and Time](https://i.postimg.cc/jSDxTPND/image.png)
-
+![JASIM UI](https://i.postimg.cc/K8CZ8jrJ/image-2.png)
 
 ## Future Enhancements
 
