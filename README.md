@@ -1,8 +1,4 @@
-# JASIM-A-DESKTOP-VOICE-ASSISTANT
-
 # JASIM - Just A Simple Intelligent Machine
-
-
 
 ## Overview
 
@@ -108,6 +104,10 @@ JASIM/
 ├── mic_icon.png       # Microphone icon for UI
 └── README.md
 ```
+
+## Sample Output Images
+![JASIM UI]([https://i.imgur.com/abcd123.png](https://postimg.cc/gnhbZyq4))
+![JASIM UI]([[https://i.imgur.com/abcd123.png](https://postimg.cc/gnhbZyq4)](https://postimg.cc/BjG9c8m3))
 
 ## Future Enhancements
 
