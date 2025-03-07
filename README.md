@@ -46,8 +46,8 @@ JASIM (Just A Simple Intelligent Machine) is a powerful desktop voice assistant 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/JASIM.git
-cd JASIM
+git clone https://github.com/N25O14I18R13/JASIM-A-DESKTOP-VOICE-ASSISTANT
+cd JASIM-A-DESKTOP-VOICE-ASSISTANT
 ```
 
 2. Install required packages:
@@ -94,18 +94,7 @@ Pillow
 - "Tell me a joke"
 - "Volume up"
 
-## Project Structure
-
-```
-JASIM/
-├── jasim.py           # Main application file
-├── jasim.db           # SQLite database for memory storage
-├── requirements.txt   # Required packages
-├── mic_icon.png       # Microphone icon for UI
-└── README.md
-```
-
-## Sample Output Images  
+## Sample Output Image 
 
 ![JASIM UI](https://i.postimg.cc/K8CZ8jrJ/image-2.png)
 
@@ -117,11 +106,6 @@ JASIM/
 - Multi-language support
 - Machine learning integration for personalized responses
 - Cross-platform compatibility (macOS, Linux)
-
-## Contributors
-
-- Yuvraj
-- Vishnu
 
 ## License
 
