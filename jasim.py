@@ -192,7 +192,7 @@ def screenshot() -> None:
     img.save(img_path)
 
 def sendWhatsAppMessage():
-    contact_book={"tejas":"+919019853268","yuvraj":"+919449931713","shastri":"+918147543946"}
+    contact_book={"Contact-Name":"Ph-no"}
     try:
         speak("To whom should I send the message? Please provide the name.")
         add_chat_bubble(chat_container,"To whom should I send the message? Please provide the name.","assistant")
@@ -275,8 +275,8 @@ def recall_data() -> None:
 
 def send_email():
     try:
-        sender_email = "noir51617@gmail.com"
-        sender_password = "lcga lroq ppzk srdd"  
+        sender_email = "your-email-address-here"
+        sender_password = "your-email-pass-key"  
         speak("To whom should I send the email? Please provide the email address.")
         add_chat_bubble(chat_container,"To whom should I send the email? Please provide the email address.","assistant")
         recipient_email = takecommand().lower()
@@ -311,7 +311,7 @@ def send_email():
 
 def get_weather():
     try:
-        api_key = "acc6e8e72bc174b106ea87cb7e3a7b65"  
+        api_key = "your-open-weather-api-key"  
         speak("Please tell me the name of the city.")
         add_chat_bubble(chat_container,"Please tell me the name of the city","assistant")
         city = takecommand().lower()  
